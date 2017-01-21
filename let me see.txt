@@ -7,18 +7,8 @@
 777
 888
 999
-10
-11
-12
-13
-14
-15
-aa
-bb
-cc
-dd
-ee
-ff
-gg
 In the Master branch again.
 Great! It works :)
+Lets make same changes with BASH
+And again, and again :)
+I made it shorter :D
